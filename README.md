@@ -19,9 +19,6 @@ The plugin also keeps a detailed history of past runs including:
 - Exit code
 - Command output
 
-> All commands will be run in the background. So you can start long-running commands and exit your application. 
-> You can check the output once the command finishes' execution.
-
 ## Screenshots
 ![Command Index](resources/screenshots/command-runner-index.png)
 ![Command Run](resources/screenshots/command-runner-run-command.png)
