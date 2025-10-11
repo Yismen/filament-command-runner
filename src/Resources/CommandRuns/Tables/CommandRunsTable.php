@@ -72,6 +72,7 @@ class CommandRunsTable
                         'SUCCESS' => 'success',
                         'RUNNING' => 'warning',
                         'KILLED', 'FAILED' => 'danger',
+                        default => 'danger',
                     }),
 
             ]))

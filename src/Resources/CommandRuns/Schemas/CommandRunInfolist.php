@@ -54,6 +54,7 @@ class CommandRunInfolist
                         'SUCCESS' => 'success',
                         'RUNNING' => 'warning',
                         'KILLED', 'FAILED' => 'danger',
+                        default => 'danger',
                     }),
 
                 TextEntry::make('exit_code')
