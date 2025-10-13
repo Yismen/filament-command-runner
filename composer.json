@@ -1,6 +1,6 @@
 {
     "name": "binarybuilds/filament-command-runner",
-    "description": "A filament package to run artisan and shell commands",
+    "description": "filament-command-runner is a Filament plugin that allows users to run artisan and shell commands directly from the Filament admin panel. All commands are executed in the background so users don't have to wait for them to finish. They can return later to view the output or optionally terminate a running command midway.",
     "keywords": [
         "binarybuilds", "laravel", "command runner", "artisan", "filament"
     ],
